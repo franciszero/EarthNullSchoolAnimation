@@ -1,0 +1,6 @@
+[
+  {"name": "Beijing",  "lat": 39.9, "lon": 116.4},
+  {"name": "Shanghai", "lat": 31.2, "lon": 121.5},
+  {"name": "Harbin",   "lat": 45.8, "lon": 126.5},
+  {"name": "Urumqi",   "lat": 43.8, "lon": 87.6}
+]
